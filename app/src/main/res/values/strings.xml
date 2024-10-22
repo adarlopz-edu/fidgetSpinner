@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fidgetSpinner</string>
+        <string-array name="array">
+            <item >juan</item>
+            <item >osorio</item>
+            <item >ivan</item>
+            <item >ian</item>
+            <item >max</item>
+        </string-array>
+</resources>
